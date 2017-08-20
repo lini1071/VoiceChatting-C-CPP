@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AudioDataHandler", "AudioDataHandler.vcxproj", "{F6BA7238-944F-4018-B1AC-242052B292EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Dynamic_Debug|x64 = Dynamic_Debug|x64
+		Dynamic_Debug|x86 = Dynamic_Debug|x86
+		Dynamic_Release|x64 = Dynamic_Release|x64
+		Dynamic_Release|x86 = Dynamic_Release|x86
+		Static_Debug|x64 = Static_Debug|x64
+		Static_Debug|x86 = Static_Debug|x86
+		Static_Release|x64 = Static_Release|x64
+		Static_Release|x86 = Static_Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Debug|x64.ActiveCfg = Dynamic_Debug|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Debug|x64.Build.0 = Dynamic_Debug|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Debug|x86.ActiveCfg = Dynamic_Debug|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Debug|x86.Build.0 = Dynamic_Debug|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Release|x64.ActiveCfg = Dynamic_Release|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Release|x64.Build.0 = Dynamic_Release|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Release|x86.ActiveCfg = Dynamic_Release|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Dynamic_Release|x86.Build.0 = Dynamic_Release|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Debug|x64.ActiveCfg = Static_Debug|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Debug|x64.Build.0 = Static_Debug|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Debug|x86.ActiveCfg = Static_Debug|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Debug|x86.Build.0 = Static_Debug|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Release|x64.ActiveCfg = Static_Release|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Release|x64.Build.0 = Static_Release|x64
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Release|x86.ActiveCfg = Static_Release|Win32
+		{F6BA7238-944F-4018-B1AC-242052B292EF}.Static_Release|x86.Build.0 = Static_Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
